@@ -15,6 +15,4 @@ In the portfolio section, you’ll find:
 
 The design features a modern, clean layout with a pink background, ensuring a user-friendly experience. My goal with this site is to share my journey and growth, and I hope you enjoy exploring it as much as I enjoyed creating it.
 
-
-https://marthaheredia48.github.io/About-me-site/portfolio.html
-
+https://replit.com/@marthah48/My-Very-Own-Personal-Website
