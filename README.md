@@ -1,16 +1,52 @@
-# **About Martha's Little Space on the Internet**
+# Personal Website Starter Code
+
+This is a place for you to start building your personal website!
+
+### Project Requirements
+Your project should:
+- Include one home HTML page that's all about you!
+- Include a navigation bar that is included on all your website's pages.
+- Include one portfolio HTML page to showcase your projects.
+- Have all text, image(s), links, and/or videos on the page contained within appropriate HTML elements.
+- Include alt text for every image in your website.
+- Apply styles to text, image, and navigation bar elements using CSS rules.
+- Use classes and/or IDs to style CSS elements.
+
+### Extensions
+You can extend your project further by:
+- Customizing the fonts.
+- Adding some fancy CSS styles.
+- Embedding YouTube videos.
+- Adding another page or more content.
 
 
-Welcome to Martha's Little Space in the Internet! I created this website at the age of 17 as part of the Girls Who Code Self-Paced Program in 2023. This project showcases my dedication to computer science, math, and physics, reflecting my journey and growth in these fields.
+### Image Attributions
+*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
+- Ada Lovelace Image on index.html: Alfred Edward Chalon / Public domain 
+- Ada Lovelace Program Image on portfolio.html: Ada Lovelace / Public domain
+- The Analytical Engine portfolio.html: Science Museum London / Science and Society Picture Library / CC BY-SA [https://creativecommons.org/licenses/by-sa/2.0]()
+- Portfolio Header Background Code Image from Pixabay [Image Link](https://pixabay.com/vectors/background-the-background-1086840/)
 
-The homepage provides an introduction to my interests and includes a personal touch with my favorite song. It’s designed to offer a glimpse into my creative side and passions.
+---
 
-In the portfolio section, you’ll find:
+## File Overview
 
--Prizes: Highlights from various academic and writing competitions where I’ve been recognized for my achievements.
+### ← README.md
 
+That's this file. This is the place to tell people more about what your website does and how you built it. 
 
--Courses and Workshops: A detailed account of the educational programs and workshops I’ve completed, including the Kode with Klossy curriculum and other significant learning experiences.
+### ← index.html
 
+HTML files are for content! Add your text, images, buttons, and more using HTML tags.
 
-The design features a modern, clean layout with a pink background, ensuring a user-friendly experience. This project not only demonstrates my technical skills but also my commitment to continual learning and personal growth.
+### ← style.css
+
+CSS files add styling rules to your content like changing colors and fonts. 
+
+### ← script.js
+
+JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
+
+### ← assets
+
+Drag in `assets`, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
